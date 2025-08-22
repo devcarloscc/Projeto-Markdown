@@ -46,7 +46,7 @@ A tabela abaixo detalha os requisitos mínimos para garantir a funcionalidade b�
 
 <br>
 
-![Modelo de notebook com design moderno e robusto, ideal para o ambiente educacional, que equilibra portabilidade e funcionalidade.](https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![Modelo de notebook com design moderno e robusto, ideal para o ambiente educacional, que equilibra portabilidade e funcionalidade.](https://www.lenovo.com/medias/lenovo-v14-gen-4-intel-hero.png?context=bWFzdGVyfGltYWdlc3wyNjg2NDV8aW1hZ2UvcG5nfGltYWdlcy9oZjQvaDYyLzMxMjY3MzkzMzMzNDIyLnBuZ3xjODczMjM0ZGM2NzRkNzMxNzQ4MzQyM2M0Y2QzYjA5OGI1MmI0YjYzZTEzNzJkZWRiMjY0ZTk5ZjQxMjM3Y2I)
 *Legenda: Modelo de notebook com design robusto e conectividade moderna, características essenciais para o uso dinâmico em sala de aula.*
 
 ### Justificativa e Referências
