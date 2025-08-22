@@ -47,6 +47,7 @@ A tabela abaixo detalha os requisitos mínimos para garantir a funcionalidade b�
 <br>
 
 ![Modelo de notebook com design moderno e robusto, ideal para o ambiente educacional, que equilibra portabilidade e funcionalidade.](https://p2-ofp.static.pub//fes/cms/2024/05/17/u9ghbpq50hdf09y1jypbawqcpzpznw558343.png)
+
 *Legenda: Modelo de notebook com design robusto e conectividade moderna, características essenciais para o uso dinâmico em sala de aula.*
 
 ### Justificativa e Referências
