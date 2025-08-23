@@ -90,3 +90,36 @@ O orçamento a seguir detalha todos os custos associados à aquisição, proteç
 * **Roteador Wi-Fi 6:** A infraestrutura de rede atual pode não suportar 30 novos dispositivos conectados simultaneamente. Um roteador com tecnologia Wi-Fi 6 é projetado para ambientes de alta densidade, garantindo uma conexão estável e veloz para todos os alunos durante as aulas.
 
 * **Instalação e Configuração Inicial:** Este valor cobre o serviço técnico especializado para preparar todos os 30 notebooks para o uso, incluindo a instalação do sistema operacional, softwares educacionais, configuração do sistema de rastreamento, etiquetagem de patrimônio e a instalação do novo roteador.
+
+## 6. Benefícios Esperados
+
+A implementação deste projeto resultará em um impacto profundo e multifacetado, beneficiando diretamente alunos, professores e a instituição como um todo. A transição para uma infraestrutura móvel é o principal catalisador desses avanços.
+
+### Para os Alunos
+* **Inclusão Digital e Igualdade de Oportunidades:** Reduz o fosso digital entre as escolas do interior e os centros urbanos, garantindo que todos os alunos tenham acesso às mesmas ferramentas para o aprendizado e desenvolvimento de competências essenciais para o século XXI.
+* **Aprendizagem Ativa e Dinâmica:** A portabilidade dos notebooks rompe as barreiras físicas do laboratório de informática, permitindo que a tecnologia seja usada de forma integrada em aulas de campo, na biblioteca, em projetos de grupo na sala de aula e em qualquer outro espaço pedagógico.
+* **Desenvolvimento de Autonomia:** Ao manusearem equipamentos individuais e modernos, os alunos desenvolvem maior autonomia, responsabilidade e proatividade em seus processos de pesquisa e estudo.
+
+### Para os Professores
+* **Flexibilidade Pedagógica:** A disponibilidade de equipamentos móveis permite que os professores inovem em suas práticas, aplicando metodologias como a sala de aula invertida, a gamificação e a aprendizagem baseada em projetos sem depender da agenda de um laboratório.
+* **Otimização do Tempo:** Facilita o acesso a recursos digitais, a preparação de aulas e a utilização de plataformas educacionais, otimizando o tempo de planejamento e permitindo um foco maior na interação com os alunos.
+* **Capacitação e Valorização Profissional:** O acesso a ferramentas modernas incentiva o desenvolvimento profissional contínuo e valoriza o trabalho docente, capacitando-os para atuar em uma educação cada vez mais tecnológica.
+
+### Para a Instituição (Escolas e Município)
+* **Otimização de Espaço e Redução de Custos:** Libera o espaço físico antes dedicado exclusivamente aos laboratórios de informática, que pode ser convertido em ambientes de aprendizagem multiúso. A longo prazo, a redução no consumo de energia e nos custos de manutenção gera economia para o município.
+* **Modernização e Imagem Institucional:** Posiciona as escolas da rede municipal de Amontada como instituições modernas e comprometidas com a oferta de uma educação de qualidade, aumentando sua atratividade para a comunidade.
+* **Gestão Simplificada de Ativos:** Os novos equipamentos, aliados a sistemas de rastreamento e garantia estendida, facilitam a gestão do patrimônio tecnológico, garantindo maior controle e segurança do investimento público.
+
+## 7. Cronograma (Simplificado)
+
+O projeto será executado em fases claras e objetivas, visando a implementação completa dos equipamentos para o início do próximo ano letivo.
+
+* **Fase 1: Aprovação e Planejamento Final (Setembro de 2025):** Finalização dos detalhes do projeto, apresentação aos gestores e obtenção da aprovação orçamentária.
+* **Fase 2: Processo de Aquisição (Outubro a Dezembro de 2025):** Abertura do processo licitatório, seleção de fornecedores e emissão da ordem de compra dos equipamentos e serviços.
+* **Fase 3: Recebimento e Configuração (Janeiro de 2026):** Entrega dos notebooks, instalação dos softwares, configuração dos sistemas de segurança e etiquetagem patrimonial.
+* **Fase 4: Implantação e Treinamento (Início de Fevereiro de 2026):** Distribuição dos equipamentos às escolas e realização de um treinamento inicial com os professores para o uso adequado dos notebooks e das novas ferramentas.
+* **Fase 5: Início do Uso em Sala de Aula (A partir de Fevereiro de 2026):** Integração total dos notebooks às atividades pedagógicas com o início do ano letivo.
+
+## 8. Considerações Finais
+
+Este projeto é muito mais do que uma simples atualização de hardware; é um investimento estratégico na igualdade de oportunidades e no futuro dos alunos da zona rural de Amontada-CE. A situação atual, com equipamentos precários e restritos a laboratórios fixos, aprofunda o fosso digital e limita o potencial de nossos estudantes e educadores. A aquisição de notebooks é a solução ideal, pois sua mobilidade e flexibilidade quebram essas barreiras, levando o aprendizado para além da sala de aula e preparando os jovens para um mundo conectado. A aprovação deste investimento é um passo decisivo e necessário para modernizar o ensino, valorizar a educação no interior e garantir que nenhum aluno seja deixado para trás.
